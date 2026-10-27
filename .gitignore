@@ -1,0 +1,10 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Build output
+build/
